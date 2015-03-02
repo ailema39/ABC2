@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ABC Seguridad Ciudadana</string>
+    <string name="loading">Cargando...</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_launcher">ABC Seguridad Ciudadana</string>
+    <string name="image_landing">Logotipo de la Aplicación</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ABC Public Safety</string>
+    <string name="loading">Loading...</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_launcher">ABC Public Safety</string>
+    <string name="image_landing">Aplication Logo</string>
+
+</resources>
