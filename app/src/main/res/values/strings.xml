@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string-array name="category_array">
+        <item>Airport</item>
+        <item>Airplane</item>
+        <item>Banks</item>
+        <item>Babies</item>
+        <item>ATMs</item>
+        <item>Cars</item>
+        <item>Houses</item>
+        <item>Cell Phone</item>
+        <item>Computer</item>
+        <item>Handicapped</item>
+        <item>Fire</item>
+        <item>Flooding</item>
+        <item>Robbery</item>
+        <item>Kidnapping</item>
+        <item>Credit/Debit Cards</item>
+        <item>Domestic Violence</item>
+    </string-array>
+
     <string name="app_name">ABC Public Safety</string>
-    <string name="loading">Loading...</string>
+    <string name="loading">Loading…</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_launcher">ABC Public Safety</string>
-    <string name="image_landing">Aplication Logo</string>
+    <string name="image_landing">Application Logo</string>
+    <string name="danger_situation">Situaciones de Peligro</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="icon">Icon</string>
+
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

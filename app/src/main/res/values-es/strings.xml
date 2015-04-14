@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string-array name="category_array">
+        <item>Aeropuerto</item>
+        <item>Avión</item>
+        <item>Bancos</item>
+        <item>Bebés</item>
+        <item>Cajeros Automáticos</item>
+        <item>Carros</item>
+        <item>Casas</item>
+        <item>Celular</item>
+        <item>Computadora</item>
+        <item>Discapacitados</item>
+        <item>Incendio</item>
+        <item>Inundaciones</item>
+        <item>Robo</item>
+        <item>Secuestro</item>
+        <item>Tarjetas de Crédito/Débito</item>
+        <item>Violencia Doméstica</item>
+    </string-array>
     <string name="app_name">ABC Seguridad Ciudadana</string>
-    <string name="loading">Cargando...</string>
+    <string name="loading">Cargando&#8230;</string>
     <string name="action_settings">Configuración</string>
     <string name="title_activity_launcher">ABC Seguridad Ciudadana</string>
     <string name="image_landing">Logotipo de la Aplicación</string>
+    <string name="danger_situation">Situaciones de Peligro</string>
+    <string name="drawer_open">Abrir menú de navegación</string>
+    <string name="drawer_close">Cerrar menú de navegación</string>
+    <string name="icon">Icono</string>
 
 </resources>
