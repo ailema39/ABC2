@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="menu_array">
+        <item>La Fundación</item>
+        <item>Situaciones de Peligro</item>
+        <item>Directorio de Emergencia</item>
+        <item>Consejos</item>
+    </string-array>
+    <string-array name="foundation_array">
+        <item>Acerca de Nosotros</item>
+        <item>Donaciones</item>
+    </string-array>
     <string-array name="category_array">
         <item>Aeropuerto</item>
         <item>Avión</item>
@@ -18,6 +28,60 @@
         <item>Tarjetas de Crédito/Débito</item>
         <item>Violencia Doméstica</item>
     </string-array>
+    <string-array name="a_tip">
+        <item>Verificar la lista de artículos prohibidos para evitar decomiso y demoras en los puntos de revisión.</item>
+        <item>Leer y ensayar mentalmente los planes de evacuación ante un siniestro.</item>
+        <item>No contar dinero dentro o fuera del banco, podría ser blanco de robo. De ser necesario, contar el dinero en frente del cajero.</item>
+        <item>Ubicar la cuna lejos de ventanas abiertas, persianas y cordones de cortinas. Preguntar a su médico cuál es la mejor posición al dormir para su bebe.</item>
+        <item>Cambiar el código de acceso asignado por la entidad bancaria o en caso de sospechar que alguien más conoce su clave.</item>
+        <item>Tener las llaves listas en la mano y no desactivar la alarma hasta mirar al interior del vehículo. Evitar estacionamientos oscuros o alejados.</item>
+        <item>Si llaman a su puerta, no abrir de inmediato, confirmar primero su identidad, dado que  pueden ser delincuentes disfrazados para cometer el delito. Instruir a los niños y al personal doméstico.</item>
+        <item>Anotar y activar el código de seguridad y el número Pin. Al igual que el PUK y  el IMEI (número que identifica el dispositivo), para que en caso de robo o pérdida, la acción de recuperación sea más efectiva, denunciar el robo o pérdida a la policía y a tu operador de telefonía móvil.</item>
+        <item>Investigar sobre los nuevos tipos de virus, para poder combatirlos.  Protegerse con un anti-spyware para mantener la confidencialidad de sus archivos. Si ha sido infiltrado, cambiar de inmediato todas las claves de acceso.</item>
+        <item>Procurar estar siempre acompañados de alguien que pueda asistirlos ante cualquier eventualidad.</item>
+        <item>Evitar situaciones que podrían causar un incendio; tales como el almacenaje inapropiado de productos inflamables, fugas de gas, sobrecargas en conexiones eléctricas, herbazales.</item>
+        <item>Cuando se produzca una inundación, pensar en su seguridad y la de su familia, por encima de todos los bienes materiales, tratar de ubicarse en lugares altos o sobre su techo. Volver a su hogar sólo cuando sea seguro o las autoridades así lo indiquen.</item>
+        <item>El delincuente siempre sorprenderá a la víctima más desprevenida, si es usted no forcejar con su agresor, trate de captar señas que podrían ayudar a su identificación,  luego de su denuncia.</item>
+        <item>Mantenerse sereno y callado para poder captar la mayor información posible de su entorno y de sus captores: ruidos peculiares, voces, conversación, olores, etc. Recordar que en la mayoría de los casos obedece a  dinero y el secuestrado es su único respaldo.</item>
+        <item>Jamás permitir que su tarjeta de crédito/débito se encuentre fuera del alcance de su vista, dado que podría producirse la clonación de la misma.  Mucho menos proporcione su clave o Pin.</item>
+        <item>La única manera de detener el maltrato, salvaguardar su integridad e inclusive su vida es denunciando a tu agresor.</item>
+    </string-array>
+    <string-array name="b_tip">
+        <item>No confiar a nadie sus pertenencias, ni aceptar cuidar las pertenencias de desconocidos en el aeropuerto.</item>
+        <item>En situación de impacto, colocar el pecho contra sus piernas sujetando los tobillos y manteniendo la cabeza sobre su regazo. Si es posible, coloque su equipaje entre su cabeza y el asiento delantero para amortiguar el golpe.</item>
+        <item>Al equivocarse llenando las boletas de Deposito/ Retiro, no tirarlas; podrían recuperarlas y obtener su información.</item>
+        <item>Nunca dejar objetos que puedan ser llevados a la boca, porque podrían causarle asfixia o la muerte.</item>
+        <item>No digitar la clave personal en presencia de personas ajenas, aún cuando pretendan ayudarlo, no facilitar la tarjeta magnética a terceros, ya que puede ser clonada de forma rápida. No utilizar los cajeros automáticos cuando se encuentren mensajes o situaciones de operación anormales.</item>
+        <item>No detenerse si su vehículo es chocado levemente o sufre algún percance de noche o en un sitio solitario, podría ser víctima robo. Llegar a una estación de policías o a un sitio poblado e iluminado. Tomar la mayor información del vehículo que le colisionó y llamar a la policía para indicar su ubicación.</item>
+        <item>Asegurar las puertas y ventanas de su domicilio.  No dejar objetos de valor visibles en el patio o dentro de la vivienda. Tener siempre al alcance el número de la policía, emergencia, bomberos entre otros. Esto agilizará su llamado de auxilio.</item>
+        <item>Evitar utilizar su dispositivo móvil en autobuses, paradas, áreas desoladas,  automóviles y hablar caminando, porque puede distraerse de su entorno, por lo que se convierte en blanco fácil para el robo del mismo.</item>
+        <item>Evitar el acceso a sus redes sociales, banca en línea y correo electrónico desde conexiones inseguras o equipos de acceso público.</item>
+        <item>Llevar en brazalete, collar o tarjeta información de contacto en caso de pérdida.</item>
+        <item>Si se encuentra atrapado en un incendio dentro de casa o edificio, conservar la calma, hacer un plan de evacuación identificando las puertas y ventanas. Tener a mano algún objeto contundente para romper ventanas. Ayudar a los niños, adultos mayores  y discapacitados.</item>
+        <item>Si la inundación lo toma dentro de su residencia, desconectar rápidamente el suministro de gas y electricidad. Hacer una maleta pequeña de evacuación con lo necesario, si la inundación lo sorprende adentro de su vehículo, abandonarlo y aguardarse en un lugar alto.</item>
+        <item>Ante sospecha de ser seguido, buscar un lugar seguro y alertar a las autoridades policiales.</item>
+        <item>La familia debe denunciar el secuestro ante las autoridades correspondientes de inmediato  y ser discretos sobre este suceso, evitar los medios de comunicación que podrían alertar a los secuestradores.</item>
+        <item>De producirse la pérdida o robo de su tarjeta, reportarla de inmediato al banco o compañía emisora de la tarjeta. Adquiera un seguro adecuado para la misma.</item>
+        <item>Al denunciar a su agresor la víctima debe solicitar las medidas de protección que establece la ley.</item>
+    </string-array>
+    <string-array name="c_tip">
+        <item>No aceptar regalos ni paquetes de desconocidos para ser transportados a bordo.</item>
+        <item>Escoger un asiento cercano a la salida de emergencia o en el pasillo, para agilizar su salida en caso de un siniestro.</item>
+        <item>Evitar la previsibilidad. Si crea una habitualidad para realizar sus transacciones bancarias, podría ser blanco fácil.</item>
+        <item>Supervisarlo de cerca, sobre todo al comenzar a caminar. Inodoros, planchas, fogones, estufas representan un  potencial de peligro.</item>
+        <item>Trate de utilizar cajeros automáticos en lugares seguros y en horarios diurnos, que se encuentren agentes de seguridad del banco.</item>
+        <item>No dejar documentos importantes ni objetos valiosos en el auto, ni dispositivos electrónicos. Al bajar de su carro, no dejarlo encendido. Antes de subir a su auto cerciorarse si hay personas dentro de los automóviles aparcados a ambos lados. De ser así tome las  precauciones porque podría ser asaltado.</item>
+        <item>Si al regresar a su domicilio advierte alguna anormalidad, llamar de inmediato a la policía. No  entrar para no viciar o destruir las pruebas que hayan dejado los delincuentes. Coordinar con tus familiares y vecinos un sistema de alarma y vigilancia mutua (Juntas de protección o vecinos vigilantes) para disuadir al delincuente.</item>
+        <item>Hacer periódicamente un respaldo de la información importante y números de contactos. Evitar guardar en su dispositivo móvil, fotografías, notas de voz, videos importantes o confidenciales. Estos podrían ser usados como extorsión de caer en mano criminal.</item>
+        <item>No utilizar la misma clave de acceso siempre. No proporcionar información confidencial,  personal, comercial o bancaria en encuestas, concursos en línea o similares.</item>
+        <item>Documentar adicionalmente la información médica importante a ser considerada en caso de emergencia, tales como: condición, tipo de sangre, medicamentos a los que es alérgico, etc.</item>
+        <item>Si hay humo, taparse la nariz y boca con un pañuelo de preferencia mojado y caminar agachado. Identificar los tanques extinguidores de incendios.</item>
+        <item>Ayudar a las personas heridas o que han quedado atrapadas. Si hay lesionados, pedir ayuda de primeros auxilios a los servicios de emergencia. Ayudar a sus vecinos que tengan familiares de edad, discapacitados o niños pequeños.</item>
+        <item>El delincuente puede disfrazarse de empleado público, religioso o estar muy bien vestido para evitar sospecha. El estar alerta a su entorno evita ser victimizado porque el delincuente igualmente se da cuenta de que está alerta.</item>
+        <item>Cuando finalmente se haya recuperado al familiar lo primero y más importante es hacerle un chequeo médico, luego se le debe dejar que se exprese y no presionar para que hable sobre su estancia en cautiverio. La familia debe intentar el tratamiento terapéutico de todos los miembros.</item>
+        <item>Afiliarse al sistema de movimientos de su tarjeta para saber cuándo se efectúa cada transacción, así tendrá tiempo de reportar la tarjeta rápidamente y evitar pérdidas mayores en casos de clonación o robo.</item>
+        <item>Acudir a organizaciones civiles o gubernamentales para recibir la asistencia psicológica, legal y espiritual requerida.</item>
+    </string-array>
     <string name="app_name">ABC Seguridad Ciudadana</string>
     <string name="loading">Cargando&#8230;</string>
     <string name="action_settings">Configuración</string>
@@ -27,5 +91,5 @@
     <string name="drawer_open">Abrir menú de navegación</string>
     <string name="drawer_close">Cerrar menú de navegación</string>
     <string name="icon">Icono</string>
-
+    <string name="about_us"><![CDATA[<div>Somos una organización no gubernamental, sin fines de lucro, compuesta por un grupo de personas víctimas del delito, con el objetivo de brindar asistencial integral a víctimas, entre ellas:</div><div>- Asistencia Legal</div><div>- Asistencia Psicológica</div><div>- Asistencia Espiritual</div><div>para mitigar en lo posible la victimización producida, con dignidad y humanización del proceso.</div><div>Contamos con un equipo multidisciplinario de tratamiento que por mas 15 años ha realizado su labor de manera filantrópica hacia nuestra fundación.<div/><div>Encuentranos en nuestras redes sociales:</div><div align="center"><a href="http://www.facebook.com"><img src="facebook.png" style="padding:20px;"></a><a href="http://www.instagram.com"><img src="instagram.png"></a></div>]]></string>
 </resources>

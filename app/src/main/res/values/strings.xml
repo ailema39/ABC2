@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string-array name="menu_array">
+        <item>The Foundation</item>
+        <item>Danger Situations</item>
+        <item>Emergency Directory</item>
+        <item>Tips</item>
+    </string-array>
+    <string-array name="foundation_array">
+        <item>About Us</item>
+        <item>Donations</item>
+    </string-array>
     <string-array name="category_array">
         <item>Airport</item>
-        <item>Airplane</item>
+        <item>Plane</item>
         <item>Banks</item>
         <item>Babies</item>
         <item>ATMs</item>
         <item>Cars</item>
         <item>Houses</item>
-        <item>Cell Phone</item>
+        <item>Cellphone</item>
         <item>Computer</item>
-        <item>Handicapped</item>
+        <item>Handicap</item>
         <item>Fire</item>
         <item>Flooding</item>
         <item>Robbery</item>
@@ -19,7 +28,60 @@
         <item>Credit/Debit Cards</item>
         <item>Domestic Violence</item>
     </string-array>
-
+    <string-array name="a_tip">
+        <item>Check the prohibited items list to avoid confiscation and delays in the checking points.</item>
+        <item>Read and mentally practice the evacuation plans in case of an accident.</item>
+        <item>Do not count money inside or outside the bank, you could become target of thieves. If necessary, count the money in front of the cashier.</item>
+        <item>Place the cradle far from open windows, glass windows and curtain cords. Ask your doctor what\'s the best position for your baby when sleeping.</item>
+        <item>Change the access code assigned by the banking entity or in case of suspecting that someone else knows your password.</item>
+        <item>Have ready your car keys and do not deactivate the alarm until looking to the interior of the vehicle. Avoid dark or distant parking lots.</item>
+        <item>If some one call at your door, do not open immediately, check their identity first, hence they could be camouflaged delinquents about to commit a crime. Instruct the children and the domestic personnel.</item>
+        <item>Take note and activate the security code and the PIN number. Same as PUK and IMEI (device identifier number), in case of rob or lost, the recovery action can be more effective; to place a stealing or lost complaint to the police and to your mobile phone operator.</item>
+        <item>Research about the new type of viruses, to be able to fight back. Protect using anti-spyware to keep the confidentiality of your files. If it has been infiltrated, change immediately all access passwords.</item>
+        <item>Try always to be accompanied by someone who can assist you before any eventuality.</item>
+        <item>Avoid situations that could cause a fire; such as the inappropriate storage of flammable products, gas leakage, overloads in electric connections, grasslands.</item>
+        <item>When a flooding happens, thinking in your safety and your family\'s, above any material assets, try to reach high places or above the roof. Go back to your home only when is safe or when the authorities had indicated so.</item>
+        <item>The delinquent will always surprise the most inadvertent victim, if it\'s you, don\'t fight back with your aggressor, try to pay attention marks that could help identify him, after you place a complaint.</item>
+        <item>Keep calm and quite to obtain the most possible amount of information of your surroundings and your captors: peculiar noises, voices, conversation, smells, etc.  Remember that most cases obey to money and the kidnapped is his only back up.</item>
+        <item>Never leave your credit/debit card out of your sight, hence someone could clone it. Not even giving away your PIN or password.</item>
+        <item>The only way to stop the abuse, protecting your integrity and even your life is reporting your aggressor.</item>
+    </string-array>
+    <string-array name="b_tip">
+        <item>Do not trust anybody your belongings, or accept to watch unfamiliar people belongings in the airport.</item>
+        <item>In case of crashing, place your chest against your legs, grabbing the ankles and keeping the head over your laps. If possible, place your luggage between your head and the front seat to lessen the impact.</item>
+        <item>If you do any mistake when you are filling up the Deposit/Withdrawn vouchers, don\'t throw them away; someone could retrieve them and obtain your information.</item>
+        <item>Never leave objects that can be taken to the mouth, because they could cause asphyxia or death.</item>
+        <item>Don\'t digit your personal password in front of unfamiliar people, even when they pretend to help, don\'t give your magnetic card to third parties,  it can be cloned quickly. Don\'t use the ATMs when you see messages or operational situations out of ordinary.</item>
+        <item>Do not stop if your vehicle is lightly hit or suffers an inconvenience at night or in a solitaire place, you could become victim of thieves. Reach a police station or a place with people and lightened. Take as much information from the vehicle that hit you and call the police to indicate your location.</item>
+        <item>Check the doors and windows of your house. Do not leave valuable objects visible in the yard or inside the house. Always have handy the police number, emergency, firemen, among others. This will expedite your call for help.</item>
+        <item>Avoid using your mobile device in buses, bus stops, solitaire areas, cars and while walking, because you can be distracted of your surroundings, becoming an easy target to have it stolen.</item>
+        <item>Avoid the access of your social networks, online banking and email from insecure connections or public access devices.</item>
+        <item>Carry a bracelet, necklace or contact information card in case of lost.</item>
+        <item>If you find yourself trapped in a fire inside a house or building, keep calm, make an evacuation plan identifying doors and windows. Keep handy a strong object to break windows. Help children, elders and handicap.</item>
+        <item>If flooding takes you by surprise inside your home, quickly disconnect the gas flow and electricity. Prepare a small evacuation bag with the necessary elements, if flooding surprises you inside your vehicle, abandon it and look for shelter in a high place.</item>
+        <item>If you suspect you are being followed, look for a safe place and let the police authorities know.</item>
+        <item>The family must report the kidnapping to the appropriate authorities immediately and be discrete about this event, avoid the media who could alert the kidnappers.</item>
+        <item>If your card gets lost or stolen, report it immediately to the bank or credit card issuing company. Get an appropriate insurance.</item>
+        <item>When reporting your aggressor, the victim must request the protection measures established by law.</item>
+    </string-array>
+    <string-array name="c_tip">
+        <item>Do not take presents or packages from unfamiliar people to carry them aboard.</item>
+        <item>Choose a seat near the emergency exit or in the hallway, to make easier your way out in case of an accident.</item>
+        <item>Avoid being predictable. If you create a habit to perform your banking transactions, you could become an easy target.</item>
+        <item>Supervise them closely, mostly when beginning to walk. Toilets, irons, fireplaces, stoves, represent a potential danger.</item>
+        <item>Try using ATMs in safe places and in daytime shifts, where the bank security agents are visible.</item>
+        <item>Do not leave important documents or valuable objects in the car, nor electronic devices. When getting off your car, don\'t leave the engine running. Before getting in your car, check if there are people inside the cars to both sides of your car. If that\'s the case, take precautions because you could be assaulted.</item>
+        <item>If when returning to your home you notice something abnormal, call the police immediately. Do not walk in to avoid alter or destroy evidence left by the delinquents. Coordinate with your relatives and neighbors a mutual alarm and surveillance system (Protection Council or Watching Neighbors) to dissuade the delinquent.</item>
+        <item>Periodically back up the important information and contact numbers. Avoid storing in your mobile device, pictures, voice notes, important or confidential videos. These could be used as blackmail in case that criminals have access to it.</item>
+        <item>Do not always use the same access password. Do not provide confidential information, personal, commercial or banking through surveys, online contests or else.</item>
+        <item>Document in addition the relevant medical information to be considered in case of emergency, such as: condition, blood type, allergic to medicine, etc.</item>
+        <item>If there is smoke, cover your nose and mouth with a handkerchief (preferably wet) and walk bending over. Identify the extinguishers.</item>
+        <item>Help wounded people or people trapped. If there are wounded, ask for first aid assistance to emergency services. Help your neighbors who have elder family members, handicap or little kids.</item>
+        <item>The delinquent can wear a public officer, religious disguise or dress very well to avoid suspicion. Being alert to your surroundings avoid become a victim because the delinquent also realizes that you are alert.</item>
+        <item>When the member of the family has finally been retrieved, the first and most important thing is to run a medical check-up, then you must allow them to express themselves and don\'t push them to speak about their time in captivity. The family must try the therapeutic treatment to all members.</item>
+        <item>Sign up for the movement system of your card to know when every transaction takes place, so that you will have time to report it quickly and avoid major losses in case of cloning or robbery.</item>
+        <item>Attend civil or governmental organizations to obtain psychological, legal and spiritual required assistance.</item>
+    </string-array>
     <string name="app_name">ABC Public Safety</string>
     <string name="loading">Loading…</string>
     <string name="action_settings">Settings</string>
