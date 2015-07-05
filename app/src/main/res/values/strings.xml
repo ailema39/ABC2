@@ -91,6 +91,8 @@
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="icon">Icon</string>
+    <string name="about_us"><![CDATA[<div>We are a non-governmental organization, non-profit, formed by a group of people who are victims from crime, with the objective to provide integral assistance to victims, among them:</div><div>- Legal Assistance</div><div>- Psychological Assistance</div><div>- Spiritual Assistance</div><div>to mitigate at all possible the victimization produced, with dignity and humanization of the process.</div><div>We have a multidisciplinary team of treatment who has performed their labor more than 15 years philanthropically towards our foundation.<div/><div>You can find us through our social networks:</div><div><a href="https://www.facebook.com/pages/Fundacion-para-la-Asistencia-Integral-a-Victimas/413041572186881?ref=hl"><img src="facebook.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/funainvic"><img src="instagram.png"></a></div>]]></string>
+    <string name="donation_btn">DONATE NOW</string>
 
     <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
     <string name="title_section1">Section 1</string>

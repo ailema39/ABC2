@@ -28,6 +28,61 @@
         <item>Tarjetas de Crédito/Débito</item>
         <item>Violencia Doméstica</item>
     </string-array>
+    <string-array name="directory_array">
+        <item>Ambulancias</item>
+        <item>Bomberos</item>
+        <item>Cruz Roja</item>
+        <item>Policía</item>
+        <item>Protección Civil</item>
+    </string-array>
+    <string-array name="organizations_array">
+        <item>Sistema de Emergencias SUME 911</item>
+        <item>Benemérito Cuerpo de Bomberos de la República de Panamá</item>
+        <item>Cruz Roja Panameña</item>
+        <item>Policía Nacional de Panamá</item>
+        <item>Sistema Nacional de Protección Civil</item>
+    </string-array>
+    <string-array name="infos_array">
+        <item>Marque el 911 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+        <item>Marque el 103 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+        <item>La Cruz Roja Panameña ofrece servicios de ambulancias para traslados de emergencias y urgencias de manera gratuita.</item>
+        <item>Marque el 104 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+        <item>Marque el *335 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+    </string-array>
+    <string-array name="phones_array">
+        <item>Teléfono: 911</item>
+        <item>Teléfono: 103</item>
+        <item>Teléfono: *455</item>
+        <item>Teléfono: 104</item>
+        <item>Teléfono: *335</item>
+    </string-array>
+    <string-array name="call_array">
+        <item>tel:911</item>
+        <item>tel:103</item>
+        <item>tel:*455</item>
+        <item>tel:104</item>
+        <item>tel:*335</item>
+    </string-array>
+    <string-array name="tips_array">
+        <item>Evita ser Víctima</item>
+        <item>Niños Solos en Casa</item>
+        <item>Perfil del Delincuente</item>
+    </string-array>
+    <string-array name="tip_1">
+        <item>Si tienes que esperar en un sitio, cambie frecuentemente de posición, use las vidrieras como espejos, mire las personas que están en su entorno. Manténgase atento y vigilante.</item>
+        <item>Tenga reglas por escrito de emergencia que su hijo debe seguir mientras está solo en la casa, al igual que los teléfonos importantes de familiares y ayuda.</item>
+        <item>No quiere ser descubierto, tratará de cubrirse o pasar desapercibido.</item>
+    </string-array>
+    <string-array name="tip_2">
+        <item>No muestre dinero en efectivo, teléfonos celulares, tabletas, dispositivos electrónicos.</item>
+        <item>Haga hábito, que su hijo lo llame cuando llegue a la casa, si un desconocido sigue detrás de sus hijos, asegúrese que ellos saben que deben ir a un lugar público, como una estación de policías, bomberos o una tienda para pedir ayuda.</item>
+        <item>Siempre hace una pre selección de las víctimas, las investiga, las observa, espera el momento.</item>
+    </string-array>
+    <string-array name="tip_3">
+        <item>Si es sorprendido y sometido, mantenga la calma, no oponga resistencia ni exponga su integridad.</item>
+        <item>Enséñeles a rechazar "aventones" de extraños y no dejarse acompañar por desconocidos a ningún lugar... inclusive si les dicen que su papá o mamá han dado su aprobación y que informen inmediatamente al adulto más cercano o alguna autoridad (maestro, profesor, policía, etc.) sobre alguien que trate de molestarlos o fastidiarlos. Tampoco deben aceptar obsequios de ningún tipo.</item>
+        <item>Siempre escogerá a la víctima más desprevenida.</item>
+    </string-array>
     <string-array name="a_tip">
         <item>Verificar la lista de artículos prohibidos para evitar decomiso y demoras en los puntos de revisión.</item>
         <item>Leer y ensayar mentalmente los planes de evacuación ante un siniestro.</item>
@@ -91,5 +146,8 @@
     <string name="drawer_open">Abrir menú de navegación</string>
     <string name="drawer_close">Cerrar menú de navegación</string>
     <string name="icon">Icono</string>
-    <string name="about_us"><![CDATA[<div>Somos una organización no gubernamental, sin fines de lucro, compuesta por un grupo de personas víctimas del delito, con el objetivo de brindar asistencial integral a víctimas, entre ellas:</div><div>- Asistencia Legal</div><div>- Asistencia Psicológica</div><div>- Asistencia Espiritual</div><div>para mitigar en lo posible la victimización producida, con dignidad y humanización del proceso.</div><div>Contamos con un equipo multidisciplinario de tratamiento que por mas 15 años ha realizado su labor de manera filantrópica hacia nuestra fundación.<div/><div>Encuentranos en nuestras redes sociales:</div><div align="center"><a href="http://www.facebook.com"><img src="facebook.png" style="padding:20px;"></a><a href="http://www.instagram.com"><img src="instagram.png"></a></div>]]></string>
+    <string name="about_us"><![CDATA[<div>Somos una organización no gubernamental, sin fines de lucro, compuesta por un grupo de personas víctimas del delito, con el objetivo de brindar asistencial integral a víctimas, entre ellas:</div><div>- Asistencia Legal</div><div>- Asistencia Psicológica</div><div>- Asistencia Espiritual</div><div>para mitigar en lo posible la victimización producida, con dignidad y humanización del proceso.</div><div>Contamos con un equipo multidisciplinario de tratamiento que por mas 15 años ha realizado su labor de manera filantrópica hacia nuestra fundación.<div/><div>Encuentranos en nuestras redes sociales:</div><div><a href="https://www.facebook.com/pages/Fundacion-para-la-Asistencia-Integral-a-Victimas/413041572186881?ref=hl"><img src="facebook.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/funainvic"><img src="instagram.png"></a></div>]]></string>
+    <string name="donation_btn">DONAR AHORA</string>
+    <string name="donations"><![CDATA[<div>Puedes hacer tu donativo a través de un depósito o transferencia a la:</div><div>Cuenta de Ahorros</div><div>N° 2005 0301 00038072</div><div>Del Banco Universal</div><div>A nombre de XYZ</div><div>Con tu donación apoyarás a los programas de asistencia integral a víctimas, para saber más sobre nosotros visita nuestras redes sociales:</div><div><a href="https://www.facebook.com/pages/Fundacion-para-la-Asistencia-Integral-a-Victimas/413041572186881?ref=hl"><img src="facebook.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/funainvic"><img src="instagram.png"></a></div>]]></string>
+    <string name="call">Llamar</string>
 </resources>

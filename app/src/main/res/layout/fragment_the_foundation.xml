@@ -15,9 +15,14 @@
 
             <TextView android:layout_width="fill_parent" android:layout_height="0dp" android:id="@+id/about_us" android:padding="10dp"
                 android:layout_weight="1" android:textSize="16sp" android:drawableTop="@drawable/ic_foundation"
-                android:drawablePadding="3dp" android:background="@drawable/abc_back" android:gravity="center|left" android:layout_margin="10dp"
+                android:drawablePadding="3dp" android:background="@drawable/abc_back" android:gravity="center|start" android:layout_margin="10dp"
                 android:layout_gravity="fill"/>
-
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/donation_btn" android:id="@+id/donation"
+                android:drawableLeft="@drawable/ic_donation" android:drawableStart="@drawable/ic_donation" android:padding="10dp" android:layout_margin="10dp"
+                android:gravity="center" android:background="@drawable/donation_btn" android:textColor="@color/white" android:layout_gravity="center"/>
         </LinearLayout>
     </FrameLayout>
 </ScrollView>

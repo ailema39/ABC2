@@ -1,0 +1,27 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" xmlns:tools="http://schemas.android.com/tools" tools:context="com.mycompany.abc.DirectoryFragment"
+    android:fillViewport="true">
+    <FrameLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:paddingBottom="16dp"
+            android:orientation="vertical" android:gravity="center" android:background="@color/gray_background">
+
+            <TextView android:layout_width="fill_parent" android:layout_height="0dp" android:id="@+id/directory" android:padding="10dp"
+                android:layout_weight="1" android:textSize="16sp" android:drawablePadding="3dp"
+                android:background="@drawable/abc_back" android:gravity="center|start" android:layout_margin="10dp"
+                android:layout_gravity="fill"/>
+            <ImageButton
+                android:layout_width="fill_parent" android:contentDescription="@string/call"
+                android:layout_height="wrap_content" android:id="@+id/call"
+                android:src="@drawable/ic_call" android:padding="10dp" android:layout_margin="10dp"
+                android:gravity="center" android:background="@drawable/call_btn" android:layout_gravity="center" />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>
