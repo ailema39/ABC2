@@ -28,6 +28,61 @@
         <item>Credit/Debit Cards</item>
         <item>Domestic Violence</item>
     </string-array>
+    <string-array name="directory_array">
+        <item>Ambulances</item>
+        <item>Fire Department</item>
+        <item>Red Cross</item>
+        <item>Police Department</item>
+        <item>Civil Protection</item>
+    </string-array>
+    <string-array name="organizations_array">
+        <item>Sistema de Emergencias SUME 911</item>
+        <item>Benemérito Cuerpo de Bomberos de la República de Panamá</item>
+        <item>Cruz Roja Panameña</item>
+        <item>Policía Nacional de Panamá</item>
+        <item>Sistema Nacional de Protección Civil</item>
+    </string-array>
+    <string-array name="infos_array">
+        <item>Marque el 911 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+        <item>Marque el 103 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+        <item>La Cruz Roja Panameña ofrece servicios de ambulancias para traslados de emergencias y urgencias de manera gratuita.</item>
+        <item>Marque el 104 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+        <item>Marque el *335 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+    </string-array>
+    <string-array name="phones_array">
+        <item>Phone Number: 911</item>
+        <item>Phone Number: 103</item>
+        <item>Phone Number: *455</item>
+        <item>Phone Number: 104</item>
+        <item>Phone Number: *335</item>
+    </string-array>
+    <string-array name="call_array">
+        <item>tel:911</item>
+        <item>tel:103</item>
+        <item>tel:*455</item>
+        <item>tel:104</item>
+        <item>tel:*335</item>
+    </string-array>
+    <string-array name="tips_array">
+        <item>Avoid Becoming a Victim</item>
+        <item>Children Home Alone</item>
+        <item>Delinquent\'s Profile</item>
+    </string-array>
+    <string-array name="tip_1">
+        <item>Si tienes que esperar en un sitio, cambie frecuentemente de posición, use las vidrieras como espejos, mire las personas que están en su entorno. Manténgase atento y vigilante.</item>
+        <item>Have written emergency rules that your son/daughter must follow while home alone, same as the important relative and help phone numbers.</item>
+        <item>No quiere ser descubierto, tratará de cubrirse o pasar desapercibido.</item>
+    </string-array>
+    <string-array name="tip_2">
+        <item>No muestre dinero en efectivo, teléfonos celulares, tabletas, dispositivos electrónicos.</item>
+        <item>Make a habit, that your son/daughter calls you when they get home, if a stranger follows you son/daughter, make sure they know they need to go to a public place, like a police station, firemen or a store to ask for help.</item>
+        <item>Siempre hace una pre selección de las víctimas, las investiga, las observa, espera el momento.</item>
+    </string-array>
+    <string-array name="tip_3">
+        <item>Si es sorprendido y sometido, mantenga la calma, no oponga resistencia ni exponga su integridad.</item>
+        <item>Teach them to reject "rides" from strangers and don\'t allow strangers to accompany them to any place... even if they are told that their father or mother have approved and to inform immediately to the closest adult or any authority (teacher, professor, police, etc.). They shouldn\'t accept gifts of any kind.</item>
+        <item>Siempre escogerá a la víctima más desprevenida.</item>
+    </string-array>
     <string-array name="a_tip">
         <item>Check the prohibited items list to avoid confiscation and delays in the checking points.</item>
         <item>Read and mentally practice the evacuation plans in case of an accident.</item>
@@ -87,20 +142,12 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_launcher">ABC Public Safety</string>
     <string name="image_landing">Application Logo</string>
-    <string name="danger_situation">Situaciones de Peligro</string>
+    <string name="danger_situation">Danger Situations</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="icon">Icon</string>
     <string name="about_us"><![CDATA[<div>We are a non-governmental organization, non-profit, formed by a group of people who are victims from crime, with the objective to provide integral assistance to victims, among them:</div><div>- Legal Assistance</div><div>- Psychological Assistance</div><div>- Spiritual Assistance</div><div>to mitigate at all possible the victimization produced, with dignity and humanization of the process.</div><div>We have a multidisciplinary team of treatment who has performed their labor more than 15 years philanthropically towards our foundation.<div/><div>You can find us through our social networks:</div><div><a href="https://www.facebook.com/pages/Fundacion-para-la-Asistencia-Integral-a-Victimas/413041572186881?ref=hl"><img src="facebook.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/funainvic"><img src="instagram.png"></a></div>]]></string>
     <string name="donation_btn">DONATE NOW</string>
-
-    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="action_example">Example action</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
+    <string name="donations"><![CDATA[<div>Puedes hacer tu donativo a través de un depósito o transferencia a la:</div><div>Cuenta de Ahorros</div><div>N° 2005 0301 00038072</div><div>Del Banco Universal</div><div>A nombre de XYZ</div><div>Con tu donación apoyarás a los programas de asistencia integral a víctimas, para saber más sobre nosotros visita nuestras redes sociales:</div><div><a href="https://www.facebook.com/pages/Fundacion-para-la-Asistencia-Integral-a-Victimas/413041572186881?ref=hl"><img src="facebook.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/funainvic"><img src="instagram.png"></a></div>]]></string>
+    <string name="call">Call</string>
 </resources>

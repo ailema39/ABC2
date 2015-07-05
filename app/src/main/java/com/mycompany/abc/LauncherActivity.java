@@ -18,7 +18,7 @@ public class LauncherActivity extends Activity implements LoadingTask.LoadingTas
         // Find the progress bar
         ProgressBar progressBar = (ProgressBar)findViewById(R.id.activity_launcher_progress_bar);
         // Start your loading
-        new LoadingTask(progressBar, this).execute("www.google.co.uk");
+        new LoadingTask(progressBar, this).execute("");
     }
 
     // This is the callback for when your async task has finished

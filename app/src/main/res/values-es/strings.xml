@@ -50,11 +50,11 @@
         <item>Marque el *335 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
     </string-array>
     <string-array name="phones_array">
-        <item>Teléfono: 911</item>
-        <item>Teléfono: 103</item>
-        <item>Teléfono: *455</item>
-        <item>Teléfono: 104</item>
-        <item>Teléfono: *335</item>
+        <item>Número de Teléfono: 911</item>
+        <item>Número de Teléfono: 103</item>
+        <item>Número de Teléfono: *455</item>
+        <item>Número de Teléfono: 104</item>
+        <item>Número de Teléfono: *335</item>
     </string-array>
     <string-array name="call_array">
         <item>tel:911</item>
