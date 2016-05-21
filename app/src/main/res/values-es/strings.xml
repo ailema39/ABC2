@@ -34,6 +34,7 @@
         <item>Cruz Roja</item>
         <item>Policía</item>
         <item>Protección Civil</item>
+        <item>Atención Ciudadana</item>
     </string-array>
     <string-array name="organizations_array">
         <item>Sistema de Emergencias SUME 911</item>
@@ -41,13 +42,15 @@
         <item>Cruz Roja Panameña</item>
         <item>Policía Nacional de Panamá</item>
         <item>Sistema Nacional de Protección Civil</item>
+        <item>Centro de Atención Ciudadana 311</item>
     </string-array>
     <string-array name="infos_array">
         <item>Marque el 911 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
-        <item>Marque el 103 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+        <item>Salvaguardan vidas y propiedades a través de la gestión de riesgo, prevención, control, extinción de incendios, la búsqueda, salvamento y rescate, el control de incidentes con materiales peligrosos, la atención pre-hospitalaria y preservando el ambiente, mediante la aplicación de técnicas modernas e innovación tecnológica, con disciplina, honor y abnegación.</item>
         <item>La Cruz Roja Panameña ofrece servicios de ambulancias para traslados de emergencias y urgencias de manera gratuita.</item>
-        <item>Marque el 104 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
-        <item>Marque el *335 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+        <item>Salvaguardar la vida, honra, bienes y demás derechos y libertades de quienes se encuentran bajo la jurisdicción del estado, sean panameños o extranjeros, preservando el orden público.</item>
+        <item>Informa a los ciudadanos en prevención, mitigación, preparación, alerta, respuesta, rehabilitación y reconstrucción en temas de desastres.</item>
+        <item>Con el Centro de Atención Ciudadana 311, la ciudadanía tiene al alcance de la mano a todas las instituciones del Estado en un solo punto de contacto, las 24 horas al día. Sirve para medir los tiempos de respuesta de las entidades ante situaciones reportadas por los ciudadanos.</item>
     </string-array>
     <string-array name="phones_array">
         <item>Número de Teléfono: 911</item>
@@ -55,6 +58,7 @@
         <item>Número de Teléfono: *455</item>
         <item>Número de Teléfono: 104</item>
         <item>Número de Teléfono: *335</item>
+        <item>Número de Teléfono: 311</item>
     </string-array>
     <string-array name="call_array">
         <item>tel:911</item>
@@ -62,6 +66,7 @@
         <item>tel:*455</item>
         <item>tel:104</item>
         <item>tel:*335</item>
+        <item>tel:311</item>
     </string-array>
     <string-array name="tips_array">
         <item>Evita ser Víctima</item>
@@ -150,4 +155,5 @@
     <string name="donation_btn">DONAR AHORA</string>
     <string name="donations"><![CDATA[<div>Puedes hacer tu donativo a través de un depósito o transferencia a la:</div><div>Cuenta de Ahorros</div><div>N° 2005 0301 00038072</div><div>Del Banco Universal</div><div>A nombre de XYZ</div><div>Con tu donación apoyarás a los programas de asistencia integral a víctimas, para saber más sobre nosotros visita nuestras redes sociales:</div><div><a href="https://www.facebook.com/pages/Fundacion-para-la-Asistencia-Integral-a-Victimas/413041572186881?ref=hl"><img src="facebook.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/funainvic"><img src="instagram.png"></a></div>]]></string>
     <string name="call">Llamar</string>
+    <string name="intro"><![CDATA[<div><b>¡Bienvenido a ABC Seguridad Ciudadana!</b></div><div>Para comenzar selecciona el menú superior izquierdo y elige un tópico de tu interés.</div><div>Podrás escoger entre conocer acerca de la fundación, informarte sobre qué hacer ante una situación de peligro, utilizar el directorio de emergencias para comunicarte con algún organismo u obtener consejos ante ciertas situaciones de la vida cotidiana.</div>]]></string>
 </resources>

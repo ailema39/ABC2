@@ -2,13 +2,13 @@
 <resources>
     <string-array name="menu_array">
         <item>The Foundation</item>
-        <item>Danger Situations</item>
+        <item>Dangerous Situation</item>
         <item>Emergency Directory</item>
         <item>Tips</item>
     </string-array>
     <string-array name="foundation_array">
         <item>About Us</item>
-        <item>Donations</item>
+        <item>Donation</item>
     </string-array>
     <string-array name="category_array">
         <item>Airport</item>
@@ -29,25 +29,28 @@
         <item>Domestic Violence</item>
     </string-array>
     <string-array name="directory_array">
-        <item>Ambulances</item>
+        <item>Ambulance</item>
         <item>Fire Department</item>
         <item>Red Cross</item>
-        <item>Police Department</item>
-        <item>Civil Protection</item>
+        <item>Police</item>
+        <item>Protección Civil</item>
+        <item>Citizen Service</item>
     </string-array>
     <string-array name="organizations_array">
-        <item>Sistema de Emergencias SUME 911</item>
+        <item>SUME 911 Emergency System</item>
         <item>Benemérito Cuerpo de Bomberos de la República de Panamá</item>
-        <item>Cruz Roja Panameña</item>
-        <item>Policía Nacional de Panamá</item>
+        <item>Panamanian Red Cross</item>
+        <item>National Police of Panamá</item>
         <item>Sistema Nacional de Protección Civil</item>
+        <item>“311” Citizen Service Center</item>
     </string-array>
     <string-array name="infos_array">
-        <item>Marque el 911 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
-        <item>Marque el 103 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
-        <item>La Cruz Roja Panameña ofrece servicios de ambulancias para traslados de emergencias y urgencias de manera gratuita.</item>
-        <item>Marque el 104 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
-        <item>Marque el *335 sólo para emergencias. Situaciones de emergencia que pueden incluir problemas de salud graves o que atenten con la vida de las personas.</item>
+        <item>Dial 911 for emergencies only. Emergencies which may include serious health problems or that threaten the lives of people.</item>
+        <item>Safeguard lives and property through risk management, prevention, control, firefighting, search, rescue and recovery, control of hazardous materials incidents, the pre-hospital care and preserving the environment through the application of modern techniques and technological innovation, discipline, honor and selflessness.</item>
+        <item>Panamanian Red Cross provides ambulance services to accident and emergencies, transfers for free.</item>
+        <item>Safeguard the lives, honor, property and other rights and freedoms of all persons under the jurisdiction of the state, whether are Panamanians or foreigners, preserving the public order.</item>
+        <item>Empowers citizens in prevention, mitigation, preparedness, early warning, response, rehabilitation and reconstruction in disaster issues.</item>
+        <item>The “311” Citizen Service Center, the public can reach all the state institutions in a single point of contact, 24 hours a day. It measures the response times of the entities in situations reported by citizens.</item>
     </string-array>
     <string-array name="phones_array">
         <item>Phone Number: 911</item>
@@ -55,6 +58,7 @@
         <item>Phone Number: *455</item>
         <item>Phone Number: 104</item>
         <item>Phone Number: *335</item>
+        <item>Phone Number: 311</item>
     </string-array>
     <string-array name="call_array">
         <item>tel:911</item>
@@ -62,26 +66,27 @@
         <item>tel:*455</item>
         <item>tel:104</item>
         <item>tel:*335</item>
+        <item>tel:311</item>
     </string-array>
     <string-array name="tips_array">
-        <item>Avoid Becoming a Victim</item>
+        <item>Avoid being a Victim</item>
         <item>Children Home Alone</item>
-        <item>Delinquent\'s Profile</item>
+        <item>Criminal Profile</item>
     </string-array>
     <string-array name="tip_1">
-        <item>Si tienes que esperar en un sitio, cambie frecuentemente de posición, use las vidrieras como espejos, mire las personas que están en su entorno. Manténgase atento y vigilante.</item>
+        <item>If you have to wait on a site, change position frequently, use the windows as mirrors, look at the people who are in their environment. Stay alert and vigilant.</item>
         <item>Have written emergency rules that your son/daughter must follow while home alone, same as the important relative and help phone numbers.</item>
-        <item>No quiere ser descubierto, tratará de cubrirse o pasar desapercibido.</item>
+        <item>Do not want to be discover, trying to cover or go unnoticed.</item>
     </string-array>
     <string-array name="tip_2">
-        <item>No muestre dinero en efectivo, teléfonos celulares, tabletas, dispositivos electrónicos.</item>
+        <item>Do not display cash, cell phones, tablets, electronic devices.</item>
         <item>Make a habit, that your son/daughter calls you when they get home, if a stranger follows you son/daughter, make sure they know they need to go to a public place, like a police station, firemen or a store to ask for help.</item>
-        <item>Siempre hace una pre selección de las víctimas, las investiga, las observa, espera el momento.</item>
+        <item>Always make a pre selection of the victims, investigates them, observes and waits for the attack.</item>
     </string-array>
     <string-array name="tip_3">
-        <item>Si es sorprendido y sometido, mantenga la calma, no oponga resistencia ni exponga su integridad.</item>
+        <item>If you are caught and subjected, stay calm, and do not resist or expose your integrity.</item>
         <item>Teach them to reject "rides" from strangers and don\'t allow strangers to accompany them to any place... even if they are told that their father or mother have approved and to inform immediately to the closest adult or any authority (teacher, professor, police, etc.). They shouldn\'t accept gifts of any kind.</item>
-        <item>Siempre escogerá a la víctima más desprevenida.</item>
+        <item>Always choose the most unsuspecting victim.</item>
     </string-array>
     <string-array name="a_tip">
         <item>Check the prohibited items list to avoid confiscation and delays in the checking points.</item>
@@ -148,6 +153,7 @@
     <string name="icon">Icon</string>
     <string name="about_us"><![CDATA[<div>We are a non-governmental organization, non-profit, formed by a group of people who are victims from crime, with the objective to provide integral assistance to victims, among them:</div><div>- Legal Assistance</div><div>- Psychological Assistance</div><div>- Spiritual Assistance</div><div>to mitigate at all possible the victimization produced, with dignity and humanization of the process.</div><div>We have a multidisciplinary team of treatment who has performed their labor more than 15 years philanthropically towards our foundation.<div/><div>You can find us through our social networks:</div><div><a href="https://www.facebook.com/pages/Fundacion-para-la-Asistencia-Integral-a-Victimas/413041572186881?ref=hl"><img src="facebook.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/funainvic"><img src="instagram.png"></a></div>]]></string>
     <string name="donation_btn">DONATE NOW</string>
-    <string name="donations"><![CDATA[<div>Puedes hacer tu donativo a través de un depósito o transferencia a la:</div><div>Cuenta de Ahorros</div><div>N° 2005 0301 00038072</div><div>Del Banco Universal</div><div>A nombre de XYZ</div><div>Con tu donación apoyarás a los programas de asistencia integral a víctimas, para saber más sobre nosotros visita nuestras redes sociales:</div><div><a href="https://www.facebook.com/pages/Fundacion-para-la-Asistencia-Integral-a-Victimas/413041572186881?ref=hl"><img src="facebook.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/funainvic"><img src="instagram.png"></a></div>]]></string>
+    <string name="donations"><![CDATA[<div>You can make your donation through a deposit or transfer to:</div><div>Savings account</div><div>N° 2005 0301 00038072</div><div>Del Banco Universal</div><div>On the name of: XYZ</div><div>With your donation you will support the programs for comprehensive assistance to victims, to learn more about us visit our social networks:</div><div><a href="https://www.facebook.com/pages/Fundacion-para-la-Asistencia-Integral-a-Victimas/413041572186881?ref=hl"><img src="facebook.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/funainvic"><img src="instagram.png"></a></div>]]></string>
     <string name="call">Call</string>
+    <string name="intro"><![CDATA[<div><b>Welcome to ABC Public Safety!</b></div><div>To start select the upper left menu and choose a topic of your interest.</div><div>You can choose to learn about the foundation, find out about what to do in a dangerous situation, use the emergency directory to connect with an organization or get tips for certain situations of daily life.</div>]]></string>
 </resources>

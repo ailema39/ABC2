@@ -6,12 +6,19 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarDrawerToggle;
+import android.text.Html;
+import android.text.Layout;
+import android.text.SpannableString;
+import android.text.Spanned;
+import android.text.method.LinkMovementMethod;
+import android.text.style.AlignmentSpan;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ExpandableListView;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -66,7 +73,8 @@ public class MainActivity extends ActionBarActivity {
             R.drawable.bomberos,
             R.drawable.cruz_roja,
             R.drawable.policia,
-            R.drawable.sinaproc
+            R.drawable.sinaproc,
+            R.drawable.callcenter
     };
 
     int[] icTips = new int[]{
@@ -77,6 +85,7 @@ public class MainActivity extends ActionBarActivity {
 
     private DrawerLayout mDrawerLayout;
     private ActionBarDrawerToggle mDrawerToggle;
+    private TextView intro;
     private LinearLayout mDrawer ;
     volatile List<HashMap<String,String>> mList;
     volatile List<HashMap<String,String>> fList;
@@ -96,6 +105,17 @@ public class MainActivity extends ActionBarActivity {
         //getSupportActionBar().setTitle(R.string.danger_situation);
 
         setContentView(R.layout.activity_main);
+
+        String intro = getResources().getString(R.string.intro);
+        Layout.Alignment align = Layout.Alignment.ALIGN_CENTER;
+        AlignmentSpan span = new AlignmentSpan.Standard(align);
+        Spanned spanned = Html.fromHtml(intro);
+        SpannableString spannableString
+                = new SpannableString(spanned);
+        spannableString.setSpan(span, 0, spanned.length(), 0);
+        TextView t = (TextView)findViewById(R.id.intro);
+        t.append(spannableString);
+        t.append("\n\n");
 
         // Getting an array of danger situations
         menu = getResources().getStringArray(R.array.menu_array);

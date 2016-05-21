@@ -28,7 +28,8 @@ public class DirectoryFragment extends Fragment {
             R.drawable.ic_bomberos,
             R.drawable.ic_cruz_roja,
             R.drawable.ic_policia,
-            R.drawable.ic_sinaproc
+            R.drawable.ic_sinaproc,
+            R.drawable.ic_callcenter
     };
 
     String[] organizations;
